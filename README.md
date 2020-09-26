@@ -1,2 +1,2 @@
 # RedExJS 
-some basic regeular expressions 
+some basic regular expressions 
